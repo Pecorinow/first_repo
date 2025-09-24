@@ -1,2 +1,2 @@
 # first_repo
-Mon premier repo GitHub 🐣
+Le premier repo GitHub 🐣
